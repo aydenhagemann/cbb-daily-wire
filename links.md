@@ -5,3 +5,4 @@
 - [Monday, November 16, 2026](https://aydenhagemann.github.io/cbb-daily-wire/2026-11-16.html)
 - [Tuesday, November 17, 2026](https://aydenhagemann.github.io/cbb-daily-wire/2026-11-17.html)
 - [Wednesday, November 18, 2026](https://aydenhagemann.github.io/cbb-daily-wire/2026-11-18.html)
+- [Thursday, November 19, 2026](https://aydenhagemann.github.io/cbb-daily-wire/2026-11-19.html)
